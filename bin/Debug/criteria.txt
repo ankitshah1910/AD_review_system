@@ -1,0 +1,7 @@
+Food Rating
+Staff Friendliness
+Cleanliness
+Order Accuracy
+Restaurant Ambiance
+Value For Money
+test

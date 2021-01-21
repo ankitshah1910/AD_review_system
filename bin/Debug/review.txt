@@ -1,0 +1,1 @@
+{"reviewDate":"2021-01-21T13:23:37.9539546+05:45","customerName":"Ankit Shah","customerEmail":"ankitshah2057@gmail.com","customerContact":"9842779721","customerRatings":{"Food Rating":4,"Staff Friendliness":4,"Cleanliness":5,"Order Accuracy":3,"Restaurant Ambiance":4,"Value For Money":4}}
